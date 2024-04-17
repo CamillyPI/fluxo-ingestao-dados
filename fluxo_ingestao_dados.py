@@ -4,3 +4,5 @@
 # criacao de tabela
 # criar campos
 # inserir dados nas tabelas
+
+import json
